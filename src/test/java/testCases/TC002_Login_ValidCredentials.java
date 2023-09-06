@@ -27,9 +27,9 @@ public class TC002_Login_ValidCredentials extends BaseClass{
     logger.info("****Starting TC*****");
     LoginPage lp = new LoginPage(driver);
     logger.info("Page Lp Object create successfully");
-    lp.setUserName("Admin");
+    lp.setUserName(rb.getString("userName"));
     logger.info("user name added");
-    lp.setPassword("admin123");
+    lp.setPassword(rb.getString("password"));
     logger.info("password entered");
     lp.clickOnContinueButton();
     logger.info("click on login button");
@@ -39,6 +39,7 @@ public class TC002_Login_ValidCredentials extends BaseClass{
     String actualUserName =orp.getUserName();
     String expectedUserName ="Paul Collings";
 
+    Assert.fail();
 //    Assert.assertEquals(actualUserName,expectedUserName);
   }
 
