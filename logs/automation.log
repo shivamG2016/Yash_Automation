@@ -34,3 +34,53 @@
 06:38:38.593 [main] INFO  testCases.TC002_Login_ValidCredentials - user name added
 06:38:38.671 [main] INFO  testCases.TC002_Login_ValidCredentials - password entered
 06:38:38.720 [main] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:13:37.257 [main] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:13:37.276 [main] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:13:37.537 [main] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:13:37.600 [main] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:13:37.642 [main] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:23:26.330 [main] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:23:26.342 [main] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:23:26.673 [main] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:23:26.733 [main] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:23:26.780 [main] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:23:49.517 [main] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:23:49.528 [main] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:23:49.643 [main] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:23:49.699 [main] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:23:51.116 [main] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:24:16.007 [main] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:24:16.027 [main] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:24:16.339 [main] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:24:16.407 [main] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:24:17.847 [main] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:28:08.442 [main] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:28:08.453 [main] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:28:08.734 [main] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:28:08.797 [main] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:28:08.842 [main] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:28:15.755 [main] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:28:15.755 [main] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:28:16.089 [main] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:28:16.154 [main] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:28:17.453 [main] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:28:24.409 [main] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:28:24.409 [main] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:28:24.603 [main] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:28:24.623 [main] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:28:26.121 [main] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:30:39.543 [TestNG-tests-1] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:30:39.556 [TestNG-tests-1] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:30:39.899 [TestNG-tests-1] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:30:39.965 [TestNG-tests-1] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:30:40.054 [TestNG-tests-1] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:30:40.911 [TestNG-tests-2] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:30:40.912 [TestNG-tests-2] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:30:41.314 [TestNG-tests-2] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:30:41.402 [TestNG-tests-2] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:30:41.850 [TestNG-tests-3] INFO  testCases.TC002_Login_ValidCredentials - ****Starting TC*****
+13:30:41.850 [TestNG-tests-3] INFO  testCases.TC002_Login_ValidCredentials - Page Lp Object create successfully
+13:30:42.103 [TestNG-tests-3] INFO  testCases.TC002_Login_ValidCredentials - user name added
+13:30:42.122 [TestNG-tests-3] INFO  testCases.TC002_Login_ValidCredentials - password entered
+13:30:43.060 [TestNG-tests-2] INFO  testCases.TC002_Login_ValidCredentials - click on login button
+13:30:43.599 [TestNG-tests-3] INFO  testCases.TC002_Login_ValidCredentials - click on login button

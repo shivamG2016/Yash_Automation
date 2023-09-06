@@ -2,6 +2,7 @@
 
 <suite name="Suite1" verbose="1" >
     <test name="Login With Valid Credentials" >
+        <parameter name="browser" value="edge"></parameter>
         <classes>
             <class name="testCases.TC002_Login_ValidCredentials" />
         </classes>

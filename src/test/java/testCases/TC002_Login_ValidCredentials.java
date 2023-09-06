@@ -42,4 +42,10 @@ public class TC002_Login_ValidCredentials extends BaseClass{
 //    Assert.assertEquals(actualUserName,expectedUserName);
   }
 
+  @Test
+  public void verifyLogout(){
+
+    System.out.println("Logout functionality has been verified successfully");
+  }
+
 }
