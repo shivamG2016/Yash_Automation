@@ -20,6 +20,7 @@ public class Test003_login_LogoutTest extends BaseClass {
        logger.info("password entered");
        lp.clickOnContinueButton();
        logger.info("click on login button");
+       logger.info("click on login button");
        // Assertion to check if user has been logged in successfully into the application
 
        OrangeHRM_HomePage orp = new OrangeHRM_HomePage(driver);

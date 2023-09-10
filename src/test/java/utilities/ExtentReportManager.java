@@ -77,7 +77,7 @@ public class ExtentReportManager implements ITestListener {
 		extent.flush();
 
 		/*
-		 * try { URL url = new
+
 		 * URL("file:///"+System.getProperty("user.dir")+"\\reports\\"+repName);
 		 * 
 		 * // Create the email message 
