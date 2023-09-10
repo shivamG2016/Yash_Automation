@@ -13,6 +13,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
     @Test
     public void test_account_Registration() {
 
+
         try {
             // we need to access the HomePage related actions and elements so we have to create the Object of home page first
             HomePage hp = new HomePage(driver);
